@@ -19,7 +19,6 @@ body,html{
     position: relative;
     overflow: hidden;
 }
-
 #countDown,
 #welcome{
     position: absolute;
